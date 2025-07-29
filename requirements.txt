@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipython>=8.0.0
+
+# Additional Analysis Tools
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# File Handling
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Progress Bars (useful for long operations)
+tqdm>=4.64.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Optional: Advanced Visualization
+# bokeh>=2.4.0
+# altair>=4.2.0
