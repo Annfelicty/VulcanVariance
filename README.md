@@ -16,7 +16,7 @@ Whether you're an investor, studio exec, or data enthusiast, this project helps 
 ##  Main Files
 - there are two there is the data cleaning file where its the original cleaning, then the movie analysis file where its the final product
 
-> 📍 **`Movie_Analysis.ipynb` and `Notebook_Data_Cleaning.ipynb`**  
+>  **`Movie_Analysis.ipynb` and `Notebook_Data_Cleaning.ipynb`**  
 This is the **main Jupyter Notebook** that contains:
 - All data cleaning and merging logic
 - Exploratory Data Analysis (EDA)
